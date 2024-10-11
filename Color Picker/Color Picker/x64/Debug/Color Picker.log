@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yagmu\source\repos\Color Picker\Color Picker\main.cpp(14,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Color Picker.vcxproj -> C:\Users\yagmu\source\repos\Color Picker\Color Picker\x64\Debug\Color Picker.exe
